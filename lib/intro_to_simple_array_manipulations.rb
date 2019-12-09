@@ -30,5 +30,5 @@ end
   end
   
   def using_uniq
-    array.using_uniq
+    array.uniq
   end
