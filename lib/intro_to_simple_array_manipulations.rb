@@ -29,6 +29,6 @@ end
     array.insert(4, item)
   end
   
-  def using_uniq
+  def using_uniq(array)
     array.uniq
   end
